@@ -27148,6 +27148,23 @@ MonoBehaviour:
   chaseRange: 5
   player: {fileID: 354920429}
   dialogueBox: {fileID: 26341070}
+  downSprites:
+  - {fileID: -3767911791555838559, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: -5570002244730919020, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: 994208209455328628, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  upSprites:
+  - {fileID: 725754152337015569, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: 5056331392613203703, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: 4853877773632043715, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  leftSprites:
+  - {fileID: -1510974004, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: -803515326, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: -1060603328, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  rightSprites:
+  - {fileID: -361165571, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: -186856305, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  - {fileID: -1482570417, guid: 8088368a349653d4480394dfa6131cd1, type: 3}
+  frameTime: 0.15
 --- !u!58 &1875260050
 CircleCollider2D:
   m_ObjectHideFlags: 0
